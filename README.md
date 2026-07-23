@@ -18,6 +18,32 @@
 - ⚡ I enjoy turning complex ideas into fast, intuitive, and user-friendly digital experiences.
 
 ---
+# 🚀 Featured Projects
+
+## 📄 MD2PDFX — Client-Side Markdown to PDF Editor
+
+A free, zero-friction, fully client-side Markdown editor that instantly converts your Markdown into beautifully themed, print-ready PDFs, HTML, or raw MD files. Built with developer workflows in mind, it requires no sign-ups or server uploads and works completely offline. 
+
+### ✨ Highlights
+
+- ⚡ Pro workspace with Edit, Split, and debounced Live Preview.
+- 🔗 **Cloud Share & Live Updates:** Share your document easily via a link with a saved title, allowing for instant live updates and seamless syncing.
+- 🎨 6 built-in premium PDF themes (Professional, Academic, Minimal, Creative, Dark, and Resume).
+- 🧜‍♀️ Native Mermaid.js integration & comprehensive LaTeX support.
+- 🔒 Privacy-first & fully offline operation (data stays completely on your local machine).
+- 📂 Multi-format export options (PDF, HTML, and .md files).
+- 📝 20+ built-in content snippets to instantly scaffold out documents, code, and diagrams.
+
+### 🔗 Live Links
+
+- **Live App:** https://md2pdfx.vercel.app
+- **Repository:** https://github.com/taherankhan/md2pdf
+
+### 🛠 Tech Stack
+
+React • TypeScript • Vite • Marked • jsPDF
+
+---
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
