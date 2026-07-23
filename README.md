@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Modern+SaaS+Applications;AI-Assisted+Software+Engineer" />
 </p>
-### 👨‍💻 About Me
 
+### 👨‍💻 About Me
 - 🚀 Full Stack Developer with **2+ years of professional experience** creating scalable web applications.
 - ⚛️ Building modern applications using **React, Next.js, Node.js, Express.js, MongoDB, and TypeScript**.
 - 🔐 Experienced in authentication, API development, payment gateway integration, analytics, and backend optimization.
@@ -16,6 +16,8 @@
 - 💬 Tech I enjoy working with: `React` `Next.js` `Node.js` `Express` `MongoDB` `TypeScript` `Redux` `Tailwind CSS` `Stripe` `Zod`
 - 🤝 Open to collaborating on innovative Full Stack and Open Source projects.
 - ⚡ I enjoy turning complex ideas into fast, intuitive, and user-friendly digital experiences.
+
+---
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
@@ -42,15 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=taherankhan&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true" alt="Taheran Khan's GitHub Activity Graph" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taherankhan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherankhan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
