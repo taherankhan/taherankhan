@@ -68,6 +68,31 @@ A full-stack, web-based management platform built for tuition center and coachin
 Next.js 14 • TypeScript • MongoDB • Tailwind CSS • JWT • jsPDF • Swagger UI
 
 ---
+
+### ⚡ PrettyJSON — High-Performance Client-Side JSON Formatter & Validator
+
+A high-performance, 100% client-side JSON Formatter, Validator, and Minifier built for seamless developer workflows. Featuring real-time line-by-line syntax error detection powered by VS Code's Monaco Editor, customizable indentations, smooth dark/light mode, and MongoDB Atlas feedback integration — requiring no sign-ups or server data processing.
+
+#### ✨ Highlights
+
+- ⚡ **Real-Time Line-Level Validation**: Instant syntax error detection with exact line & column numbers using Monaco Editor engine.
+- 🎨 **Customizable Formatting**: Instantly beautify JSON with 2-space, 4-space, or tab indentations.
+- 📦 **Instant Payload Minifier**: Strip unnecessary whitespace to compress JSON payloads for production APIs (up to ~30% smaller).
+- 🔒 **100% Privacy-First**: All formatting, linting, and minification run locally in Web Workers — your JSON data never leaves your browser.
+- 📋 **Developer Utility Suite**: One-click file upload (`.json`), output copying, error tracking, and instant workspace clearing.
+- 🌓 **Modern Premium UI**: Built with responsive glassmorphism aesthetic, sleek typography, and smooth dark/light theme switching.
+- 💬 **MongoDB Atlas Integration**: Integrated feedback submission API route powered by Next.js App Router & MongoDB Atlas.
+
+#### 🔗 Live Links
+
+- **Live App:** https://jsonmint.onrender.com/
+- **Repository:** https://github.com/taherankhan/prettyjson
+
+#### 🛠️ Tech Stack
+
+Next.js 16 • React 19 • TypeScript • Monaco Editor • Zustand • MongoDB Atlas • Google Analytics
+
+---
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
