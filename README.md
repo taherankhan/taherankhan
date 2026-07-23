@@ -44,6 +44,30 @@ A free, zero-friction, fully client-side Markdown editor that instantly converts
 React • TypeScript • Vite • Marked • jsPDF
 
 ---
+## 🎓 Tuition Management System — Web-Based Coaching & Academy Management
+
+A full-stack, web-based management platform built for tuition center and coaching class owners to streamline student onboarding, automated monthly fee collection, batch attendance tracking, and student lifecycle management. Features automated snapshot billing, instant PDF payment receipt generation, PWA mobile support, and built-in interactive Swagger API documentation.
+
+### ✨ Highlights
+
+- 👨‍🎓 **Student Lifecycle Management:** Complete student onboarding with standard/batch assignment, parent details, photo uploads, and soft-delete / prorated release & reactivation.
+- 💰 **Automated Fee Engine:** Auto-generated monthly billing cycles based on enrollment date with snapshot pricing, partial payments, overdue tracking, and carry-forward balances.
+- 📄 **On-Demand PDF Receipts:** Instant generation of professional, downloadable PDF payment receipts powered by jsPDF.
+- 📅 **Batch Attendance & Daily Logs:** Fast batch-wise daily attendance tracking (Present / Absent / Leave) with one-click bulk actions and student history logs.
+- 📊 **Real-Time Dashboard Metrics:** Live metrics showing active student counts, daily attendance percentages, and monthly fee collection targets.
+- 📱 **Progressive Web App (PWA):** Full PWA support enabling native mobile installation and offline capabilities.
+- 📚 **Interactive API Docs:** Native Swagger UI documentation built directly into the app at `/docs`.
+
+### 🔗 Live Links
+
+- **Live App:** https://tuitionmgr.vercel.app/
+- **Repository:** https://github.com/taherankhan/TUITION_MANAGEMENT
+
+### 🛠 Tech Stack
+
+Next.js 14 • TypeScript • MongoDB • Tailwind CSS • JWT • jsPDF • Swagger UI
+
+---
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
